@@ -2,7 +2,7 @@
 
 document.addEventListener("DOMContentLoaded",
     function () {
-        const colors = ['red', 'green', 'blue', 'Yellow', 'orange', 'Pink'];
+        const colors = ['red', 'green', 'blue', 'Yellow', 'orange', 'Purple'];
 
         let gameArray = [];
         let flippedCards = [];
